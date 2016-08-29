@@ -7,7 +7,7 @@ Grupo de estudos sobre Haskell da Webschool
   * [O que é Programação Funcional?](#o-que-é-programação-funcional)
   * [Entonces, (WTF is Haskell), o que é Haskell?](#entonces-wtf-is-haskell-o-que-é-haskell)
   * [A Preguiça do Haskell!](#a-preguiça-do-haskell)
-  * [Haskell... Estati “O que” ?... Estaticamente Tipado](#haskell-estati-o-que-estaticamente-tipado)
+  * [Haskell... Estati “O que” ?... Estaticamente Tipado.](#haskell-estati-o-que-estaticamente-tipado)
   * [Inferência de Tipo.](#inferência-de-tipo)
   * [Elegante e Conciso.](#elegante-e-conciso)
   * [Feito por Caras Realmente Inteligente (Cabuloso).](#feito-por-caras-realmente-inteligente-cabuloso)
