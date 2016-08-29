@@ -2,6 +2,19 @@
 Grupo de estudos sobre Haskell da Webschool
 
 
+# Ementa
+* Introdução
+  * [O que é Programação Funcional?](#o-que-e-programacao-funcional)
+  * [Entonces, (WTF is Haskell), o que é Haskell?](#entonces-wtf-is-haskell-o-que-e-haskell)
+  * [A Preguiça do Haskell!](#a-preguica-do-haskell)
+  * [Haskell...Estati “O que” ?...Estaticamente Tipado](#haskell-estai-o-que-estaticamente-tipado)
+  * [Inferência de Tipo.](#inferencia-de-tipo)
+  * [Elegante e Conciso.](#elegante-e-conciso)
+  * [Feito por Caras Realmente Inteligente (Cabuloso).](#feito-por-caras-realmente-inteligente-cabuloso)
+  * [Bora nessa?! ... É claro que sim jovem guerreiro!](#bora-nessa-e-claro-que-sim-jovem-guerreiro)
+  * [Instalando Haskell.](#instalando-haskell)
+
+
 # O que é Programação Funcional?
 
 Não é somente uma Programação que _FUNCIONA_...
