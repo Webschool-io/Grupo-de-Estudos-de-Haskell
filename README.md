@@ -52,8 +52,7 @@ A melhor maneira para iniciarmos os trabalhos é baixar a plataforma haskell *(a
 
 # Instalando Haskell.
 
-[Plataforma Haskell] (https://www.haskell.org/platform/).
-Selecione a plataforma, por exemplo, em *Linux Mint*:
+Selecione a plataforma, [Plataforma Haskell] (https://www.haskell.org/platform/), por exemplo, em *Linux Mint*:
 sudo apt-get install haskell-platform
 
 Para ver a versão atual no seu S.O, abre o terminal e digite:
