@@ -2,7 +2,6 @@
 Grupo de estudos sobre Haskell da Webschool
 
 
-
 # O que é Programação Funcional?
 
 Não é somente uma Programação que _FUNCIONA_...
@@ -23,14 +22,14 @@ Isso se chama <i>(tambores...drum...drum...drum…)</i> TRANSPARÊNCIA REFERENCI
 # A Preguiça do Haskell!
 
 <p> Isso significa que a menos que seja especificamente dito de outra forma, Haskell não irá <i>(mover um dedo)</i> executar funções e calcular as coisas antes que ele seja REALMENTE OBRIGADO a mostrar um RESULTADO. <br/>
-Isto casa muy bien <i>(como beck e ceva)</i> com a transparência referencial permitindo pensar em programas como uma série de TRANSFORMAÇÕES NOS DADOS. Permitindo _umas parada massa_ como ESTRUTURAS DE DADOS INFINITAS.
+Isto casa muy bien <i>(como beck e ceva)</i> com a transparência referencial permitindo pensar em programas como uma série de TRANSFORMAÇÕES NOS DADOS. Permitindo <i>umas parada massa</i> como ESTRUTURAS DE DADOS INFINITAS.
 
 Em uma linguagem preguiçosa, podemos ter alguns dados iniciais e eficimentemente transformá-los, assim assemelhando com aquilo que queremos no final. </p>
 
 # Haskell...Estati “O que” ?...Estaticamente Tipado.
 
 <p> Ao compilar o programa, o compilador saberá o que é um número, o que é uma string, e a vida que segue. <br/>
-Isso permite que possíveis erros possam ser capturados em tempo de compilação _(ao adicionar um número a uma string, o compilador vai reclamar)_. </p>
+Isso permite que possíveis erros possam ser capturados em tempo de compilação <i>(ao adicionar um número a uma string, o compilador vai reclamar)</i>. </p>
 
 # Inferência de Tipo.
 
@@ -46,22 +45,23 @@ Quer dizer que, Haskell utiliza muito conceitos de alto nível, programas Haskel
 # Feito por Caras Realmente Inteligente (Cabuloso).
 
 <p> Haskell foi feito por caras com doutorado. O trabalho sobre Haskell começou em 1987 quando uma comissão de pesquisadores se reuniu para projetar uma linguagem matadora (Killer). <br/>
-Em 2003, o Relatório Haskell foi publicado já com uma versão estável _(Filé)_ da linguagem. </p>
+Em 2003, o Relatório Haskell foi publicado já com uma versão estável <i>(Filé)</i> da linguagem. </p>
 
 # Bora nessa?! ... É claro que sim jovem guerreiro!
 
 <p> É necessário um editor de texto e o compilador Haskell. O Compilador Haskell utilizado é o GHC (Glasgow Haskell Compiler), o compilador Haskell mais utilizado no mundo. <br/>
-A melhor maneira para iniciarmos os trabalhos é baixar a plataforma haskell _(acompanhando baterias)_. </p>
+A melhor maneira para iniciarmos os trabalhos é baixar a plataforma haskell <i>(acompanhando baterias)</i>. </p>
 
 
 # Instalando Haskell.
 
-Selecione a [Plataforma Haskell](https://www.haskell.org/platform/) <br/>
+Selecione a [Plataforma Haskell](https://www.haskell.org/platform/)
+
 Por exemplo, em <i>Linux Mint</i>: <br/>
 sudo apt-get install haskell-platform <br/><br/>
 
 Para ver a versão atual no seu S.O, abre o terminal e digite: <br/>
-ghci <br/><br/>
+ghci <br/>
 
 Para sair, digite: <br/>
 :quit OU :q <br/> <br/>
