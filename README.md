@@ -23,7 +23,6 @@ Isso se chama <i>(tambores...drum...drum...drum…)</i> TRANSPARÊNCIA REFERENCI
 
 <p> Isso significa que a menos que seja especificamente dito de outra forma, Haskell não irá <i>(mover um dedo)</i> executar funções e calcular as coisas antes que ele seja REALMENTE OBRIGADO a mostrar um RESULTADO. <br/>
 Isto casa muy bien <i>(como beck e ceva)</i> com a transparência referencial permitindo pensar em programas como uma série de TRANSFORMAÇÕES NOS DADOS. Permitindo <i>umas parada massa</i> como ESTRUTURAS DE DADOS INFINITAS. <br/>
-
 Em uma linguagem preguiçosa, podemos ter alguns dados iniciais e eficimentemente transformá-los, assim assemelhando com aquilo que queremos no final. </p>
 
 # Haskell...Estati “O que” ?...Estaticamente Tipado.
@@ -58,7 +57,7 @@ A melhor maneira para iniciarmos os trabalhos é baixar a plataforma haskell <i>
 Selecione a [Plataforma Haskell](https://www.haskell.org/platform/)
 
 Por exemplo, em <i>Linux Mint</i>: <br/>
-sudo apt-get install haskell-platform <br/><br/>
+sudo apt-get install haskell-platform <br/>
 
 Para ver a versão atual no seu S.O, abre o terminal e digite: <br/>
 ghci <br/>
