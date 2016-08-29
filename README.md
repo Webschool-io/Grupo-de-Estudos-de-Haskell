@@ -5,8 +5,8 @@ Grupo de estudos sobre Haskell da Webschool
 
 # O que é Programação Funcional?
 
-<p>Não é somente uma Programação que **FUNCIONA**...</p>
-A programação funcional baseia-se no conceito matemático de função, na qual para cada elemento de seu conjunto domínio (entrada) há apenas UM elemento no seu conjunto contra-domínio (saída), evitando estados/variáveis ou dados mutáveis.
+<p> Não é somente uma Programação que **FUNCIONA**... <br/>
+A programação funcional baseia-se no conceito matemático de função, na qual para cada elemento de seu conjunto domínio (entrada) há apenas UM elemento no seu conjunto contra-domínio (saída), evitando estados/variáveis ou dados mutáveis. </p>
 
 # Entonces, (WTF is Haskell), o que é Haskell?
 
@@ -21,8 +21,9 @@ Isso se chama *(tambores...drum...drum...drum…)* TRANSPARÊNCIA REFERENCIAL, i
 
 # A Preguiça do Haskell!
 
-Isso significa que a menos que seja especificamente dito de outra forma, Haskell não irá *(mover um dedo)* executar funções e calcular as coisas antes que ele seja REALMENTE OBRIGADO a mostrar um RESULTADO. Isto casa muy bien *(como beck e ceva)* com a transparência referencial permitindo pensar em programas como uma série de TRANSFORMAÇÕES NOS DADOS. Permitindo *umas parada massa* como ESTRUTURAS DE DADOS INFINITAS.
-Em uma linguagem preguiçosa, podemos ter alguns dados iniciais e eficimentemente transformá-los, assim assemelhando com aquilo que queremos no final.
+<p> Isso significa que a menos que seja especificamente dito de outra forma, Haskell não irá *(mover um dedo)* executar funções e calcular as coisas antes que ele seja REALMENTE OBRIGADO a mostrar um RESULTADO. <br/>
+Isto casa muy bien *(como beck e ceva)* com a transparência referencial permitindo pensar em programas como uma série de TRANSFORMAÇÕES NOS DADOS. Permitindo *umas parada massa* como ESTRUTURAS DE DADOS INFINITAS.
+Em uma linguagem preguiçosa, podemos ter alguns dados iniciais e eficimentemente transformá-los, assim assemelhando com aquilo que queremos no final. </p>
 
 # Haskell...Estati “O que” ?...Estaticamente Tipado.
 
