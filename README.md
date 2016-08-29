@@ -17,13 +17,13 @@ Em linguagens funcionais como Haskell, não se diz para o computador o que fazer
 
 Não se pode definir uma variável sendo como algo e logo depois defini-lá como outra, ou seja, se for dito que algo é 7, esse algo É 7 e ponto final(.)!
 
-<p> Então, em linguagens puramente funcionais _(Devs chamando: -Haskell, Haskell, Haskell...)_, uma função não tem efeitos colaterais, e a ÚNICA coisa a ser feita com uma função é calcular um TREM e devolvê-lo como um RESULTADO. Com isso temos a seguinte vantagem, se a função é chamada 2 vezes com os mesmos parâmetros, vai garantir o retorno de um mesmo RESULTADO. <br/>
-Isso se chama _(tambores...drum...drum...drum…)_ TRANSPARÊNCIA REFERENCIAL, isso não somente permite que o compilador (no caso do Haskell é o GHC) raciocine sobre o comportamento do programa, permitindo a fácil dedução _(esfregando na cara)_ que uma função está correta, e em seguida, construir funções mais complexas ‘colando’ diversas funções simples em conjunto. </p>
+<p> Então, em linguagens puramente funcionais <i>(Devs chamando: -Haskell, Haskell, Haskell...)</i>, uma função não tem efeitos colaterais, e a ÚNICA coisa a ser feita com uma função é calcular um TREM e devolvê-lo como um RESULTADO. Com isso temos a seguinte vantagem, se a função é chamada 2 vezes com os mesmos parâmetros, vai garantir o retorno de um mesmo RESULTADO. <br/>
+Isso se chama <i>(tambores...drum...drum...drum…)</i> TRANSPARÊNCIA REFERENCIAL, isso não somente permite que o compilador (no caso do Haskell é o GHC) raciocine sobre o comportamento do programa, permitindo a fácil dedução <i>(esfregando na cara)</i> que uma função está correta, e em seguida, construir funções mais complexas ‘colando’ diversas funções simples em conjunto. </p>
 
 # A Preguiça do Haskell!
 
-<p> Isso significa que a menos que seja especificamente dito de outra forma, Haskell não irá _(mover um dedo)_ executar funções e calcular as coisas antes que ele seja REALMENTE OBRIGADO a mostrar um RESULTADO. <br/>
-Isto casa muy bien _(como beck e ceva)_ com a transparência referencial permitindo pensar em programas como uma série de TRANSFORMAÇÕES NOS DADOS. Permitindo _umas parada massa_ como ESTRUTURAS DE DADOS INFINITAS.
+<p> Isso significa que a menos que seja especificamente dito de outra forma, Haskell não irá <i>(mover um dedo)</i> executar funções e calcular as coisas antes que ele seja REALMENTE OBRIGADO a mostrar um RESULTADO. <br/>
+Isto casa muy bien <i>(como beck e ceva)</i> com a transparência referencial permitindo pensar em programas como uma série de TRANSFORMAÇÕES NOS DADOS. Permitindo _umas parada massa_ como ESTRUTURAS DE DADOS INFINITAS.
 
 Em uma linguagem preguiçosa, podemos ter alguns dados iniciais e eficimentemente transformá-los, assim assemelhando com aquilo que queremos no final. </p>
 
@@ -57,14 +57,14 @@ A melhor maneira para iniciarmos os trabalhos é baixar a plataforma haskell _(a
 # Instalando Haskell.
 
 <p> Selecione a [Plataforma Haskell](https://www.haskell.org/platform/) <br/>
-Por exemplo, em _Linux Mint_: <br/>
-sudo apt-get install haskell-platform <br/>
+Por exemplo, em <i>Linux Mint</i>: <br/>
+sudo apt-get install haskell-platform <br/><br/>
 
 Para ver a versão atual no seu S.O, abre o terminal e digite: <br/>
-ghci <br/>
+ghci <br/><br/>
 
 Para sair, digite: <br/>
-:quit OU :q <br/>
+:quit OU :q <br/> <br/>
 
 Referências: <br/>
 [Learn You A Haskell En-US](http://learnyouahaskell.com) <br/>
