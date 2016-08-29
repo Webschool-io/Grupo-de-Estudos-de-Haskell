@@ -5,7 +5,7 @@ Grupo de estudos sobre Haskell da Webschool
 
 # O que é Programação Funcional?
 
-Não é somente uma Programação que **FUNCIONA**...
+<p>Não é somente uma Programação que **FUNCIONA**...</p>
 A programação funcional baseia-se no conceito matemático de função, na qual para cada elemento de seu conjunto domínio (entrada) há apenas UM elemento no seu conjunto contra-domínio (saída), evitando estados/variáveis ou dados mutáveis.
 
 # Entonces, (WTF is Haskell), o que é Haskell?
