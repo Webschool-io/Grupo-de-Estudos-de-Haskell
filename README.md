@@ -56,7 +56,7 @@ A melhor maneira para iniciarmos os trabalhos é baixar a plataforma haskell _(a
 
 # Instalando Haskell.
 
-<p> Selecione a [Plataforma Haskell](https://www.haskell.org/platform/) <br/>
+Selecione a [Plataforma Haskell](https://www.haskell.org/platform/) <br/>
 Por exemplo, em <i>Linux Mint</i>: <br/>
 sudo apt-get install haskell-platform <br/><br/>
 
@@ -68,4 +68,4 @@ Para sair, digite: <br/>
 
 Referências: <br/>
 [Learn You A Haskell En-US](http://learnyouahaskell.com) <br/>
-[Learn You A Haskell PT-BR](http://haskell.tailorfontela.com.br/) </p>
+[Learn You A Haskell PT-BR](http://haskell.tailorfontela.com.br/)
