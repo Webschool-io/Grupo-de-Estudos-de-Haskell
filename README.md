@@ -22,7 +22,7 @@ Isso se chama <i>(tambores...drum...drum...drum…)</i> TRANSPARÊNCIA REFERENCI
 # A Preguiça do Haskell!
 
 <p> Isso significa que a menos que seja especificamente dito de outra forma, Haskell não irá <i>(mover um dedo)</i> executar funções e calcular as coisas antes que ele seja REALMENTE OBRIGADO a mostrar um RESULTADO. <br/>
-Isto casa muy bien <i>(como beck e ceva)</i> com a transparência referencial permitindo pensar em programas como uma série de TRANSFORMAÇÕES NOS DADOS. Permitindo <i>umas parada massa</i> como ESTRUTURAS DE DADOS INFINITAS.
+Isto casa muy bien <i>(como beck e ceva)</i> com a transparência referencial permitindo pensar em programas como uma série de TRANSFORMAÇÕES NOS DADOS. Permitindo <i>umas parada massa</i> como ESTRUTURAS DE DADOS INFINITAS. <br/>
 
 Em uma linguagem preguiçosa, podemos ter alguns dados iniciais e eficimentemente transformá-los, assim assemelhando com aquilo que queremos no final. </p>
 
