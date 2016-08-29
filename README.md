@@ -4,14 +4,14 @@ Grupo de estudos sobre Haskell da Webschool
 
 # Ementa
 * Introdução
-  * [O que é Programação Funcional?](#o-que-é-programacao-funcional-?)
+  * [O que é Programação Funcional?](#o-que-é-programação-funcional)
   * [Entonces, (WTF is Haskell), o que é Haskell?](#entonces-wtf-is-haskell-o-que-é-haskell)
   * [A Preguiça do Haskell!](#a-preguiça-do-haskell)
-  * [Haskell...Estati “O que” ?...Estaticamente Tipado](#haskell-estati-o-que-?-estaticamente-tipado)
+  * [Haskell... Estati “O que” ?...Estaticamente Tipado](#haskell-estati-o-que-estaticamente-tipado)
   * [Inferência de Tipo.](#inferência-de-tipo)
   * [Elegante e Conciso.](#elegante-e-conciso)
   * [Feito por Caras Realmente Inteligente (Cabuloso).](#feito-por-caras-realmente-inteligente-cabuloso)
-  * [Bora nessa?! ... É claro que sim jovem guerreiro!](#bora-nessa-é-claro-que-sim-jovem-guerreiro)
+  * [Bora nessa?!... É claro que sim jovem guerreiro!](#bora-nessa-é-claro-que-sim-jovem-guerreiro)
   * [Instalando Haskell.](#instalando-haskell)
 
 
@@ -38,7 +38,7 @@ Isso se chama <i>(tambores...drum...drum...drum…)</i> TRANSPARÊNCIA REFERENCI
 Isto casa muy bien <i>(como beck e ceva)</i> com a transparência referencial permitindo pensar em programas como uma série de TRANSFORMAÇÕES NOS DADOS. Permitindo <i>umas parada massa</i> como ESTRUTURAS DE DADOS INFINITAS. <br/>
 Em uma linguagem preguiçosa, podemos ter alguns dados iniciais e eficimentemente transformá-los, assim assemelhando com aquilo que queremos no final. </p>
 
-# Haskell...Estati “O que” ?...Estaticamente Tipado.
+# Haskell... Estati “O que” ?...Estaticamente Tipado.
 
 <p> Ao compilar o programa, o compilador saberá o que é um número, o que é uma string, e a vida que segue. <br/>
 Isso permite que possíveis erros possam ser capturados em tempo de compilação <i>(ao adicionar um número a uma string, o compilador vai reclamar)</i>. </p>
@@ -59,7 +59,7 @@ Quer dizer que, Haskell utiliza muito conceitos de alto nível, programas Haskel
 <p> Haskell foi feito por caras com doutorado. O trabalho sobre Haskell começou em 1987 quando uma comissão de pesquisadores se reuniu para projetar uma linguagem matadora (Killer). <br/>
 Em 2003, o Relatório Haskell foi publicado já com uma versão estável <i>(Filé)</i> da linguagem. </p>
 
-# Bora nessa?! ... É claro que sim jovem guerreiro!
+# Bora nessa?!... É claro que sim jovem guerreiro!
 
 <p> É necessário um editor de texto e o compilador Haskell. O Compilador Haskell utilizado é o GHC (Glasgow Haskell Compiler), o compilador Haskell mais utilizado no mundo. <br/>
 A melhor maneira para iniciarmos os trabalhos é baixar a plataforma haskell <i>(acompanhando baterias)</i>. </p>
