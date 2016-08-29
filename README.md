@@ -11,7 +11,7 @@ Grupo de estudos sobre Haskell da Webschool
   * [Inferência de Tipo.](#inferência-de-tipo)
   * [Elegante e Conciso.](#elegante-e-conciso)
   * [Feito por Caras Realmente Inteligente (Cabuloso).](#feito-por-caras-realmente-inteligente-cabuloso)
-  * [Bora nessa?!...É claro que sim jovem guerreiro!](#bora-nessa-é-claro-que-sim-jovem-guerreiro)
+  * [Bora nessa?!... É Claro Que Sim Jovem Guerreiro!](#bora-nessa-é-claro-que-sim-jovem-guerreiro)
   * [Instalando Haskell.](#instalando-haskell)
 
 
@@ -59,7 +59,7 @@ Quer dizer que, Haskell utiliza muito conceitos de alto nível, programas Haskel
 <p> Haskell foi feito por caras com doutorado. O trabalho sobre Haskell começou em 1987 quando uma comissão de pesquisadores se reuniu para projetar uma linguagem matadora (Killer). <br/>
 Em 2003, o Relatório Haskell foi publicado já com uma versão estável <i>(Filé)</i> da linguagem. </p>
 
-# Bora nessa?!...É claro que sim jovem guerreiro!
+# Bora nessa?!... É Claro Que Sim Jovem Guerreiro!
 
 <p> É necessário um editor de texto e o compilador Haskell. O Compilador Haskell utilizado é o GHC (Glasgow Haskell Compiler), o compilador Haskell mais utilizado no mundo. <br/>
 A melhor maneira para iniciarmos os trabalhos é baixar a plataforma haskell <i>(acompanhando baterias)</i>. </p>
